@@ -1,7 +1,16 @@
 [package]
 name = "timfmt"
+authors = "Seth Stadick"
 version = "0.1.0"
 edition = "2018"
+license = "Unlicense/MIT"
+repository = "https://github.com/sstadick/timfmt"
+description = "A small utility for formatting code as Tim likes it."
+documentation = "https://docs.rs/timfmt"
+readme = "README.md"
+categories = ["text-processing", "command-line-interface"]
+keywords = ["fmt", "tim"]
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
