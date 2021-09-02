@@ -1,6 +1,6 @@
 [package]
 name = "timfmt"
-authors = "Seth Stadick"
+authors = ["Seth Stadick"]
 version = "0.1.0"
 edition = "2018"
 license = "Unlicense/MIT"
