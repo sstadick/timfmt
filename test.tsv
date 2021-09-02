@@ -1,0 +1,14 @@
+                                                                                         ("NM_000492.3:c.442del",           "NM_000492.3", AlleleSpec("chr7",  117171120, "CA",  "C")),     
+                                                                                         ("NM_000492.3:c.805_806del",       "NM_000492.3", AlleleSpec("chr7",  117176660, "AAT", "A")),     
+                                                                                         ("NM_000492.3:c.1155_1156dup",     "NM_000492.3", AlleleSpec("chr7",  117182104, "A",   "AAT")),   
+                                                                                         ("NM_000492.3:c.3889dup",          "NM_000492.3", AlleleSpec("chr7",  117292905, "A",   "AT")),    
+    # Transcript prefix.                                                                 
+                                                                                         ("NM_007294.3:c.2207A>C",          "NM_007294.3", AlleleSpec("chr17", 41245341,  "T",   "G")),     
+                                                                                         ("NM_007294.3:c.2207A>C",          "NM_007294.3", AlleleSpec("chr17", 41245341,  "T",   "G")),     
+                                                                                         ("NM_007294.3:c.2207A>C",          "NM_007294.3", AlleleSpec("chr17", 41245341,  "T",   "G")),     
+    # After stop codon.                                                                  
+                                                                                         ("NM_000492.3:c.*3A>C",            "NM_000492.3", AlleleSpec("chr7",  117307165, "A",   "C")),     
+    # Non-canonical. - This is intronic and hgvs lib doesn't normalize intronic variants 
+                                                                                         ("NM_000492.3:c.1210-7_1210-6dup", "NM_000492.3", AlleleSpec("chr7",  117188682, "GTT", "GTTTT")), 
+    # Name Variants Counsyl: expected was "NM_000016.4:c.307insG                         
+                                                                                         ("NM_000016.4:c.306_307insG",      "NM_000016.4", AlleleSpec("chr1",  76199232,  "T",   "TG")),    
